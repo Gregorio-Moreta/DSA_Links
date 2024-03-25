@@ -1,4 +1,4 @@
-# Coding practice resources
+# DSA Coding practice resources
 
 https://www.codewars.com/ | Codewars - Achieve mastery through coding practice and developer mentorship
 
@@ -17,7 +17,7 @@ https://docs.google.com/spreadsheets/d/1lgm4WoPfewOuox3Zn2nAbRRUPclRQeP9_1oPplKL
 
 
 
-# General Resources
+# General Resources for DSA
 
 https://neetcode.io/practice | Practice
 

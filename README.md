@@ -1,3 +1,24 @@
+# Coding practice resources
+
+https://www.codewars.com/ | Codewars - Achieve mastery through coding practice and developer mentorship
+
+https://www.hackerrank.com/dashboard | Dashboard | HackerRank
+
+https://projecteuler.net/ | About - Project Euler
+
+https://coderbyte.com/ | Coderbyte | Technical Assessments & Interviews
+
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/know-when-alt-text-should-be-left-blank | Applied Accessibility: Know When Alt Text Should be Left Blank | freeCodeCamp.org
+
+https://www.udemy.com/join/login-popup/?next=/course/the-web-developer-bootcamp/learn/lecture/3919062#announcements | Log In and Start Learning | Udemy
+
+https://docs.google.com/spreadsheets/d/1lgm4WoPfewOuox3Zn2nAbRRUPclRQeP9_1oPplKLmrs/edit#gid=0 | SEI Tech Interview Prep Resources - Google Sheets
+
+
+
+
+# General Resources
+
 https://neetcode.io/practice | Practice
 
 https://leetcode.com/studyplan/30-days-of-javascript/ | 30 Days of JavaScript - Study Plan - LeetCode
